@@ -1,19 +1,14 @@
-# 헤더 크기 (h1) 
-## 헤더 크기 (h2) 
-### 헤더 크기 (h3) 
-#### 헤더 크기 (h4) 
-##### 헤더 크기 (h5) 
-###### 해더 크기 (h6)
+###### 삼성카드 Install Packaging파일 요청
+* 요청사항
+  * 6.7버전 클라이언트/개발자 버전 Install Packaging파일
+  * 10버전 클라이언트/개발자 버전 Install Packaging파일
 
-Unordered 
-* Item 1 
-* Item 2 
-    * Item 2a 
-      * Item 2b 
+* 사유
+  * 스마트 업데이트 없음
+  * C드라이브에 파일 Write권한이 없어서 현업 배포시 Install Packaging파일 필요
+  
+* 기한 : 2020년 1월 30일
 
-Ordered 
-1. Item 1 
-1. Item 2 
-1. Item 3 
-    1. Item 3a 
-    1. Item 3b
+추가로 필요한 정보가 있어서 연락해주시면 알려드리겠습니다.
+
+감사합니다.
