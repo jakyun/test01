@@ -1,4 +1,4 @@
-###### 삼성카드 Install Packaging파일 요청
+## 삼성카드 Install Packaging파일 요청
 * 요청사항
   * 6.7버전 클라이언트/개발자 버전 Install Packaging파일
   * 10버전 클라이언트/개발자 버전 Install Packaging파일
