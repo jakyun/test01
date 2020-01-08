@@ -1,4 +1,8 @@
-## 삼성카드 Install Packaging파일 요청
+### 삼성카드 Install Packaging파일 요청
+안녕하세요.
+삼성카드 프로젝트 중인 오브젠 구자균주임입니다.
+삼성카드 Install Packaging파일 요청드립니다.
+
 * 요청사항
   * 6.7버전 클라이언트/개발자 버전 Install Packaging파일
   * 10버전 클라이언트/개발자 버전 Install Packaging파일
@@ -9,3 +13,5 @@
   
 * 기한
   * 2020년 1월 30일
+
+감사합니다.
